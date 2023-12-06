@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chetan Sharma
 - 👀 My Area of interest are in ComputerVision and AI
-- 🌱 I’m currently working Computer Vision application 
+- 🌱 I’m currently working Computer Vision application and NLP 
 - 📫 How to reach me ...
 
 <!---
